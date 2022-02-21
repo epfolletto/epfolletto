@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Busco oportunidades para transição de carreira para a área de tecnologia, especificamente para a área de Desenvolvimento Web / Programação. Para tal, tenho feito cursos na área: Curso de Web Moderno ‑ 97h (JavaScript, Node.js, ESNext, HTML, CSS, Ajax, Gulp, Webpack, JQuery, Bootstrap, React, VueJS, Angular 9, SQL, MongoDB), Curso JavaScript e TypeScript do básico ao avançado (145h), Python Fundamentos para Análise de Dados (54h), Deep Learning I (40h), Deep Learning II (40h), Machine Learning (120h), além de criar projetos e
+postá‑los em meus repositórios do GitHub. 
