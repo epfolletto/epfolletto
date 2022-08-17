@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Tenho contato com algoritmos e lógica de programação desde 2008 e atualmente estou cursando o bootcamp Full-Stack da Labenu, desenvolvendo projetos individuais e em grupo, utilizando tecnologias como HTML, CSS, JavaScript, React, entre outras e  cursando MBA Data Science e Analytics pela USP. 
-Graduado em Engenharia Civil (2012), com mestrado em Engenharia Civil na área de Estruturas (2016). Entre 2013 e 2022 atuei como professor no ensino superior nos cursos de graduação em Engenharia Civil. No ano de 2020 exerci também as funções de coordenador do curso de Engenharia Civil.
+Graduado em Engenharia Civil (2012), com mestrado na área de Estruturas (2016). Entre 2013 e 2022 atuei como professor no ensino superior nos cursos de graduação em Engenharia Civil. No ano de 2020 exerci também as funções de coordenador do curso de Engenharia Civil.
 
 ##
 
