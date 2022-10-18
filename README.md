@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Atualmente estou cursando o bootcamp Full-Stack da Labenu, desenvolvendo projetos individuais e em grupo, guiados por metodologias ágeis (Kanban/Scrum). Entre as habilidades aprendidas estão HTML, CSS, JavaScript, React, Styled-Components, React Hooks, REST, Api Restful, HTTP, Jest, Node.JS, Knex, TypeScript, MySQL, AWS, SQL, Git, Github, Firebase, Testes unitários e UI Design. Também estou cursando MBA Data Science e Analytics pela USP. 
 
-Possuo graduação Engenharia Civil e mestrado na área de Estruturas. Dez anos de experiência como professor no ensino superior nos cursos de graduação em Engenharia Civil. No ano de 2020 exerci também as funções de coordenador do curso de Engenharia Civil.
+Possuo graduação Engenharia Civil e mestrado na área de Estruturas. Dez anos de experiência como professor no ensino superior nos cursos de graduação em Engenharia Civil e experiência na função de coordenador de curso de Engenharia Civil.
 
 ##
 
