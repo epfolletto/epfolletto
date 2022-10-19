@@ -32,7 +32,6 @@ Possuo graduação Engenharia Civil e mestrado na área de Estruturas. Dez anos 
 ##
 
 <div>
-  <a href="https://github.com/epfolletto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/evandrofolletto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/evandropaulofolletto" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
