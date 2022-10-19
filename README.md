@@ -1,4 +1,4 @@
-### Olá, sou Evandro Paulo Folletto.
+### Evandro Paulo Folletto.
 
 <!--
 **epfolletto/epfolletto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
