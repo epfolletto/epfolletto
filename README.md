@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Atualmente trabalho como Full Stack na [Volpi](https://volpi.tech/), uma empresa de tecnologia especializada em crédito imobiliário, utilizando tecnologias como Python (Django, Flask), HTML, MongoDB, entre outras.
+Atualmente trabalho como desenvolvedor full stack na [Volpi](https://volpi.tech/), uma empresa de tecnologia especializada em crédito imobiliário, utilizando tecnologias como Python (Django, Flask), HTML, MongoDB, entre outras.
 
 Cursando o **MBA Data Science e Analytics - USP**
 
