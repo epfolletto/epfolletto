@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 Atualmente trabalho como desenvolvedor full stack na [Volpi](https://volpi.tech/), uma empresa de tecnologia especializada em crédito imobiliário, utilizando tecnologias como Python (Django, Flask), HTML, MongoDB, entre outras.
 
-Cursando o **MBA Data Science e Analytics - USP**
-
-Possuo graduação Engenharia Civil e mestrado na área de Estruturas. Nove anos de experiência como professor no ensino superior nos cursos de graduação em Engenharia Civil e experiência na função de coordenador de curso de Engenharia Civil.
+Possuo graduação Engenharia Civil (Unochapecó), mestrado na área de Estruturas (UFSC) e MBA Data Science e Analytics (USP). Nove anos de experiência como professor no ensino superior nos cursos de graduação em Engenharia Civil e experiência na função de coordenador de curso de Engenharia Civil.
 
 ##
 
